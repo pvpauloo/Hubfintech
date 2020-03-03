@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06cd6de7-b3aa-4389-bd13-e05b1e6a7473" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XlGHHMGXjAGXIpE8PmE7Lz1d1a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project_Kivy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\u300310\PycharmProjects\Project_Kivy\venv\Lib\site-packages" />
+      <recent name="C:\Users\u300310\PycharmProjects\Hubfintech" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\u300310\PycharmProjects\Project_Kivy" />
+      <recent name="C:\Users\u300310\PycharmProjects\Hubfintech" />
+      <recent name="C:\Users\u300310\PycharmProjects\Hubfintech\venv\Lib\site-packages" />
+      <recent name="C:\Users\u300310\AppData\Local\Programs\Python\Python38\Lib\site-packages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.start (1)">
+    <configuration name="process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hubfintech" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hubfintech" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hubfintech" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hubfintech" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hubfintech" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Project_Kivy" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Project_Kivy/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.process" />
+        <item itemvalue="Python.start (3)" />
+        <item itemvalue="Python.start (2)" />
+        <item itemvalue="Python.setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06cd6de7-b3aa-4389-bd13-e05b1e6a7473" name="Default Changelist" comment="" />
+      <created>1581613177414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581613177414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="195" key="#com.intellij.tools.ToolEditorDialog" timestamp="1581941738036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="195" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1581941738036" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1583244196725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582114904424" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/-1920.-133.1920.1040@0.0.1366.728" timestamp="1583244196725" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582395584490" />
+    <state width="1345" height="84" key="GridCell.Tab.0.bottom" timestamp="1583244199139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1059" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728/-1080.-1139.1080.1880@-1080.-1139.1080.1880" timestamp="1582300742263" />
+    <state width="1345" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582238519024" />
+    <state width="1345" height="84" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-133.1920.1040@0.0.1366.728" timestamp="1583244199139" />
+    <state width="1345" height="91" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state width="1345" height="84" key="GridCell.Tab.0.center" timestamp="1583244199139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1059" height="247" key="GridCell.Tab.0.center/0.0.1366.728/-1080.-1139.1080.1880@-1080.-1139.1080.1880" timestamp="1582300742262" />
+    <state width="1345" height="247" key="GridCell.Tab.0.center/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582238519024" />
+    <state width="1345" height="84" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-133.1920.1040@0.0.1366.728" timestamp="1583244199138" />
+    <state width="1345" height="91" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state width="1345" height="84" key="GridCell.Tab.0.left" timestamp="1583244199138">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1059" height="247" key="GridCell.Tab.0.left/0.0.1366.728/-1080.-1139.1080.1880@-1080.-1139.1080.1880" timestamp="1582300742262" />
+    <state width="1345" height="247" key="GridCell.Tab.0.left/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582238519023" />
+    <state width="1345" height="84" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-133.1920.1040@0.0.1366.728" timestamp="1583244199138" />
+    <state width="1345" height="91" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state width="1345" height="84" key="GridCell.Tab.0.right" timestamp="1583244199139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1059" height="247" key="GridCell.Tab.0.right/0.0.1366.728/-1080.-1139.1080.1880@-1080.-1139.1080.1880" timestamp="1582300742263" />
+    <state width="1345" height="247" key="GridCell.Tab.0.right/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582238519024" />
+    <state width="1345" height="84" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-133.1920.1040@0.0.1366.728" timestamp="1583244199139" />
+    <state width="1345" height="91" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state width="1345" height="91" key="GridCell.Tab.1.bottom" timestamp="1582397249093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="91" key="GridCell.Tab.1.bottom/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582139232209" />
+    <state width="1345" height="91" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state width="1345" height="91" key="GridCell.Tab.1.center" timestamp="1582397249093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="91" key="GridCell.Tab.1.center/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582139232209" />
+    <state width="1345" height="91" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state width="1345" height="91" key="GridCell.Tab.1.left" timestamp="1582397249093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="91" key="GridCell.Tab.1.left/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582139232209" />
+    <state width="1345" height="91" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state width="1345" height="91" key="GridCell.Tab.1.right" timestamp="1582397249093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="91" key="GridCell.Tab.1.right/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582139232209" />
+    <state width="1345" height="91" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582397249093" />
+    <state x="184" y="15" key="SettingsEditor" timestamp="1582915719306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="15" key="SettingsEditor/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582801992150" />
+    <state x="184" y="15" key="SettingsEditor/0.0.1366.728/-1920.-133.1920.1040@0.0.1366.728" timestamp="1582915719306" />
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581868176702" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582915760096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1080.-1139.1080.1880@0.0.1366.728" timestamp="1582736023554" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-133.1920.1040@0.0.1366.728" timestamp="1582915760096" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582401609298" />
+    <state x="379" y="96" width="695" height="536" key="find.popup" timestamp="1581888267623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="695" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581888267623" />
+    <state x="-877" y="-704" width="672" height="678" key="search.everywhere.popup" timestamp="1582242189260">
+      <screen x="-1080" y="-1139" width="1080" height="1880" />
+    </state>
+    <state x="-877" y="-704" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1080.-1139.1080.1880@-1080.-1139.1080.1880" timestamp="1582242189260" />
+  </component>
+</project>
