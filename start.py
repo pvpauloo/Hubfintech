@@ -10,3 +10,4 @@ for i in l:
     print(i)
 #print(f'Total de Credito Mercado Pago: {credit}')
 #print(f'Total de Desfazimentos Mercado Pago: {Desf}')
+#oi
